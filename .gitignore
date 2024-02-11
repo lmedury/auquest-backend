@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+.vscode
+.gcloudignore
+postman/
+.env
+app.yaml
+yarn-error.log
